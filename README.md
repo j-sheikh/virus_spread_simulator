@@ -1,3 +1,5 @@
+Project done: August 2020
+
 For the course algorithm and data structure, a fellow student and I build a virus spread simulator based on a cellular automata we had to programm before. Here we represent a urban environment and simulate how a virus, depending on different input values, spreads. Individually adjustable are following variables: 
 
 1)game field size
